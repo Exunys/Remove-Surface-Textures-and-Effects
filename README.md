@@ -1,4 +1,4 @@
-# 🖼️ Remove Surface Textures and Effects [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Exunys.Config-Library&right_color=yellow)](https://github.com/Exunys/Config-Library)
+# 🖼️ Remove Surface Textures and Effects [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Exunys.Remove-Surface-Textures-and-Effects&right_color=yellow)](https://github.com/Exunys/Remove-Surface-Textures-and-Effects)
 
 ![Untitled](https://github.com/user-attachments/assets/0cfabe79-e383-4c50-9850-ad25eb8c315b)
 
